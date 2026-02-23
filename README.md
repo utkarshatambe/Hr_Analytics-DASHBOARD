@@ -22,8 +22,7 @@ An interactive HR Analytics Dashboard designed to analyze employee attrition and
 ## 🎯 Objective
 To help HR teams identify high-risk employee segments, understand attrition patterns, and make data-driven decisions to improve retention.
 
-## 🛠 Tools Used
-Power BI / Excel / SQL (Update as per your project)
+
 
 ---
 
