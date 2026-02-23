@@ -2,6 +2,7 @@
 # 📊 HR Analytics Dashboard
 
 An interactive HR Analytics Dashboard designed to analyze employee attrition and workforce trends using data visualization.
+![HR Dashboard](project2ss.png)
 
 ## 🔎 Key Insights
 - Total Employees: 1470
